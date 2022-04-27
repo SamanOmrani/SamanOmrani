@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamanOmrani
-- 👀 I’m interested in Anything that written or written with Python
+- 👀 I’m interested in Anything that written with Python
 - 🌱 I’m currently learning ML & Data Analysis
 
 
